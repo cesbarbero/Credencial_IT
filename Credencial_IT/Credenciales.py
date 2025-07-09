@@ -5,7 +5,7 @@ import datetime
 import os
 
 # === CONFIGURACIÓN ===
-carpeta_destino = r"I:\MigDel"
+carpeta_destino = r"<Destino>"
 
 # Obtener nombre de usuario Windows
 usuario = getpass.getuser()
